@@ -1,0 +1,11 @@
+.root {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetChildrenactive {
+  color: var(--token-9tzej17HIQvdz);
+}
+.root:hover .slotTargetChildren {
+  color: var(--token-9tzej17HIQvdz);
+}

@@ -1,0 +1,131 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  min-width: 0;
+  margin-top: calc(0px - var(--token-RUzZyvKbo));
+  height: calc(100% + var(--token-RUzZyvKbo));
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: var(--token-RUzZyvKbo);
+}
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: space-between;
+  align-items: flex-start;
+  min-width: 0;
+}
+.hiddenInput___5EgYc {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-height: 40px;
+  min-width: 0;
+  border-radius: 4px;
+}
+.textInput:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__w0VBq {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__aoy79 {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.textInput2:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__yjwkL {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__lXwy {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.textInput3:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg___2N0Xn {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__kyDip {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.textarea {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  min-height: 100px;
+  background: none;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  min-width: 0;
+  padding: 8px;
+  border-bottom: 1px solid var(--token-Oma3iF8wjdtxn);
+}
+.hiddenInput__eofD {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-height: 40px;
+  min-width: 0;
+  border-radius: 4px;
+}
+.button:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__vocq {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.text {
+  font-size: 12px;
+  color: var(--token-favT6QS-Y);
+}
+.svg__lBxU {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
